@@ -1,0 +1,12 @@
+{
+    "token": "bot-token",
+    "clientId": "885840198569713664",
+    "guildId": "708201631577014292",
+    "supportRoles": "715218491862417500,737630789377720351",
+    "count": 18,
+    "transcript": "780785868830670848",
+    "categoryCount": 12,
+    "category": "886173926508597258",
+    "dbName": "Devsly",
+    "dbURL": "mongo-db-link"
+}
