@@ -4,7 +4,7 @@ const {SlashCommandBuilder} = require("@discordjs/builders");
 
 function addedUser(user){
     return new MessageEmbed()
-        .setTitle("User added")
+        .setTitle("User added")         
         .setDescription(`<@${user}> Added to the order`)
         .setTimestamp(Date.now())
         .setFooter("Devsly", "https://cdn.discordapp.com/avatars/750585310873649282/79870cc941ed9ea06085795cf232f27a.png?size=64")
